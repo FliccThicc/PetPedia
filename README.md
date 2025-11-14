@@ -2,13 +2,6 @@
 
 A Flutter-based mobile application to manage pet profiles with an AI-powered breed recognition feature. This project was built as part of a 3-week placement-readiness plan.
 
-## 📸 Screenshots & Demo
-
-(This is very important! Add screenshots of your app's login screen, home screen, and the AI feature working. You can even record a short GIF of the app in action and add it here.)
-
-
-
-
 ## ✨ Features
 
 - **User Authentication:** Secure user sign-up and login using Firebase Authentication.
